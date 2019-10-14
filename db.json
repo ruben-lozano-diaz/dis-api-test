@@ -1,5 +1,25 @@
 {
-  "basic-details":{
+  "basic-details":
+{
+      "memberNumber": 1,
+      "surname": "ADAMS",
+      "title": "MS",
+      "forename1": "N",
+      "forename2": "O",
+      "forename3": "C",
+      "maidenName": "AA",
+      "gender": "F",
+      "dateOfBirth": "1980-01-01",
+      "ageEvidence": "N",
+      "niNumber": "nino1",
+      "niNumberVerified": "N",
+      "maritalStatus": "NK",
+      "statePensionAge": 60,
+      "statePensionDate": "1860-01-01",
+      "normalRetirementDate": "1980-01-01",
+      "statusCode": "D",
+      "employerCode": "NHS",
+      "schemeCode": "NHS",
       "doeToScheme": "1980-01-01",
       "widowersBackServiceMarker": "N",
       "officerPractitionerFlag": "O",
@@ -26,7 +46,7 @@
       "inlandRevenueRules": " ",
       "dateMarried": "1980-01-01T00:00:00",
       "finalPayControlFlag": "A"
-   }
+    }
   ,
   "profile": {
     "name": "typicode"
