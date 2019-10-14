@@ -1,8 +1,31 @@
 {
-  "v1":{
-      "basic-details":{
-      	"title": "hello"
-      }
+  "basic-details":{
+      "doeToScheme": "1980-01-01",
+      "widowersBackServiceMarker": "N",
+      "officerPractitionerFlag": "O",
+      "paperFileStatus": "X",
+      "restrictedAccess": "W",
+      "securityIdentityCode": "A",
+      "penWebAccessInd": "A",
+      "shaCode": "A",
+      "specialClassStatus": "A",
+      "criticalInterfaceErrorExist": "A",
+      "logdate": "2019-06-11T14:49:00.173",
+      "processLockNo": 10,
+      "memberLock": 10,
+      "paypointCode": "A",
+      "campaignIndicator": "AA",
+      "payrollNumber": "B",
+      "schemeCategory": "DB",
+      "personNumber": 79,
+      "departmentCode": "A",
+      "doeToCompany": "1980-01-01",
+      "nrdOverride": "1980-01-01",
+      "client": "A",
+      "statusStartDate": "1980-01-01",
+      "inlandRevenueRules": " ",
+      "dateMarried": "1980-01-01T00:00:00",
+      "finalPayControlFlag": "A"
    }
   ,
   "profile": {
